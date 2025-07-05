@@ -14,7 +14,8 @@ This project involves cleaning and analyzing a Netflix dataset and visualizing i
 5. Top 10 Directors (Stacked Bar)
 6. Top 10 Genres (Treemap)
 
-![Uploading image.png…]()
+![Netflix Dashboard](images/4bff2d81-77c2-4f63-aacf-a9a6c344d8ea.png)
+
 
 
 ## 📁 Files Included
