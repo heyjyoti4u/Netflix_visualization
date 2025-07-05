@@ -14,6 +14,9 @@ This project involves cleaning and analyzing a Netflix dataset and visualizing i
 5. Top 10 Directors (Stacked Bar)
 6. Top 10 Genres (Treemap)
 
+![Uploading image.png…]()
+
+
 ## 📁 Files Included
 - `NetflixDashboard.pbix` - Main Power BI file
 - `netflix1.csv` - Cleaned dataset
